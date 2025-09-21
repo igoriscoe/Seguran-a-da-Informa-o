@@ -70,6 +70,10 @@ body {
     padding: 0 1.5rem;
 }
 
+.text-center {
+    text-align: center;
+}
+
 /* ===== NAVIGATION ===== */
 .navbar {
     position: fixed;
